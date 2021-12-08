@@ -2,7 +2,7 @@
 <img src="https://github.com/Bayunova28/Data-Engineering/blob/main/big-data-technology-business-finance-concept_31965-3535.jpg" width="1000" height="400">
 
 ## Module
-> My weekly assignments from Data Engineering course in college
+> My weekly assignments from data engineering course in college
 - Introduction to Python [[📂](https://github.com/Bayunova28/Data-Engineering/tree/main/Introduction%20to%20Python)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1stphKHKSSzbaejCtUPC5Cx65xh8EWwwD?usp=sharing)
 - Master Data String and Numeric Processing [[📂](https://github.com/Bayunova28/Data-Engineering/tree/main/Master%20Data%20String%20and%20Numeric%20Processing)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qoj2Ne6aImlTy1Az_hhFpbToiUJ38v1F?usp=sharing)
 - Data Modelling Algorithm [[📂](https://github.com/Bayunova28/Data-Engineering/tree/main/Data%20Modelling%20Algorithm)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R7_ih405Wdfibl3AWLSZVw7azws3hlKj?usp=sharing)
