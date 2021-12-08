@@ -1,5 +1,5 @@
 # Data Engineering Course
-<img src="https://github.com/Bayunova28/Data-Engineering/blob/main/big-data-technology-business-finance-concept_31965-3535.jpg" width="1000" height="500">
+<img src="https://github.com/Bayunova28/Data-Engineering/blob/main/big-data-technology-business-finance-concept_31965-3535.jpg" width="1000" height="400">
 
 ## Module
 > My weekly assignments from Data Engineering course in college
