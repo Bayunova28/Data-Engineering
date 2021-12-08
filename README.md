@@ -1,4 +1,4 @@
-# Data-Engineering
+# Data Engineering Course
 <img src="https://github.com/Bayunova28/Data-Engineering/blob/main/big-data-technology-business-finance-concept_31965-3535.jpg" width="1000">
 
 ## Module
